@@ -7,3 +7,4 @@ console.log('Ngoc Ha Phan');
 console.log('Phạm Thanh Ngân');
 
 console.log('Sontm');
+console.log('Sontm 2');
